@@ -49,7 +49,6 @@ I'm a passionate **Python Backend Developer** with expertise in building scalabl
 |------------|---------|------|-------------|
 | **PostgreSQL** | 15+ | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="25"> | Primary Database |
 | **Redis** | 7.2+ | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="25"> | Cache & Message Broker |
-| **MySQL** | 8.0+ | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="25"> | Relational Database |
 | **SQLite** | 3.40+ | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="25"> | Lightweight Database |
 
 ### 📨 Task Queue & Background Jobs
@@ -75,11 +74,9 @@ I'm a passionate **Python Backend Developer** with expertise in building scalabl
 | Technology | Version | Icon | Description |
 |------------|---------|------|-------------|
 | **Docker** | 24.0+ | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="25"> | Containerization |
-| **Docker Compose** | 2.20+ | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="25"> | Multi-container Apps |
 | **Nginx** | 1.24+ | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="25"> | Reverse Proxy & Web Server |
 | **Gunicorn** | 21.2+ | <img src="https://gunicorn.org/images/logo.jpg" width="25"> | WSGI HTTP Server |
 | **Git** | 2.40+ | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="25"> | Version Control |
-| **GitHub Actions** | Latest | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="25"> | CI/CD Pipeline |
 
 ### 🎨 Frontend Basics
 
