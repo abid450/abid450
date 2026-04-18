@@ -92,175 +92,55 @@ I'm a passionate **Python Backend Developer** with expertise in building scalabl
 
 ---
 
-## 🎯 Core Competencies
 
-<div align="center">
-
-| Technology | Proficiency | Status |
-|------------|-------------|--------|
-| 🐍 **Python** | ████████████████████░ **95%** | <span style="color:#4B8BBE">⚡ Expert</span> |
-| 🎸 **Django** | ███████████████████░░ **92%** | <span style="color:#0C4B33">🚀 Expert</span> |
-| 🔷 **DRF** | ██████████████████░░░ **88%** | <span style="color:#E34F26">💪 Advanced</span> |
-| 📦 **Celery** | ████████████████░░░░░ **82%** | <span style="color:#37814A">🔄 Advanced</span> |
-| ⚡ **Redis** | ████████████████░░░░░ **78%** | <span style="color:#DC382D">⚡ Advanced</span> |
-| 🐘 **PostgreSQL** | ██████████████████░░░ **85%** | <span style="color:#336791">💾 Advanced</span> |
-| 🐳 **Docker** | ███████████████░░░░░░ **75%** | <span style="color:#2496ED">📦 Intermediate</span> |
-| 🔐 **JWT Auth** | ████████████████░░░░░ **80%** | <span style="color:#000000">🔒 Advanced</span> |
-| 🔄 **Git/GitHub** | ██████████████████░░░ **85%** | <span style="color:#F05032">📚 Advanced</span> |
-| 🌐 **REST APIs** | ███████████████████░░ **90%** | <span style="color:#00B4AB">🚀 Expert</span> |
-| 🧪 **Testing** | ████████████████░░░░░ **78%** | <span style="color:#6B46C1">✅ Advanced</span> |
-| 📝 **Documentation** | █████████████████░░░░ **85%** | <span style="color:#FF8C00">📖 Advanced</span> |
-
-</div>
-
-To the Hiring Manager / Recruiter,
 
 I am writing to showcase one of my most challenging and rewarding projects - the implementation of a comprehensive Enterprise-grade Two-Factor Authentication (2FA) System for a Point of Sale (POS) Management System serving 50+ retail branches with 500+ cashiers.
 
 📌 How I Handled This Challenging Project
 When this project came to me, the client was facing serious security issues - unauthorized access attempts, potential fraud risks, and zero visibility into who was accessing their system from where. They needed a complete security overhaul that would protect millions of dollars in daily transactions.
 
-I approached this project strategically, breaking it down into phases:
-
-🔍 Phase 1: Assessment & Planning - I spent two weeks analyzing their existing security gaps, understanding their workflow, and identifying all potential attack vectors. I interviewed store managers, cashiers, and IT staff to understand real-world usage patterns.
-
-🏗️ Phase 2: Architecture Design - I designed a multi-layered security architecture that would be both secure and user-friendly. I knew that if the system was too complex, cashiers would find workarounds.
-
-💻 Phase 3: Development & Testing - I built the system module by module, testing each component rigorously. I created a testing environment that simulated 500+ concurrent users to ensure scalability.
-
-🧪 Phase 4: Pilot Deployment - I rolled out the system to 5 pilot stores first, gathered feedback, and made improvements before full deployment.
-
-🚀 Phase 5: Full Rollout & Training - I trained store managers and created documentation for all 500+ users. I also set up a support system for the first month.
-
-📊 Phase 6: Monitoring & Optimization - I continuously monitored the system, fine-tuned the anomaly detection algorithms, and reduced false positives from 25% to 5%.
-
-✅ The Result? Zero security breaches, 100% user adoption, and a client who went from weekly security scares to complete peace of mind.
-
 🎯 Project Features (A to Z)
 1. 🌐 IP Monitoring & Threat Intelligence System
-📍 Real-time IP address tracking and geolocation mapping
-
-⚪ Automatic blacklist/whitelist management per store location
-
-🛡️ VPN, Proxy, and Tor network detection
-
-📊 IP reputation scoring from 0 to 100 based on threat intelligence databases
-
-🚫 Blocked 500+ malicious IP attempts in first month
-
-📉 95% reduction in unauthorized access attempts
-
-2. 🖥️ Device Fingerprinting & Tracking System
-🆔 Unique device ID generation based on 20+ parameters
-
-📱 Device type detection (Desktop, Mobile, Tablet)
-
-💿 OS, Browser, Screen Resolution, and Language tracking
-
-📜 Complete device history per user
-
-🔍 Detected 45+ device spoofing attempts
-
-📊 Tracked 3,500+ unique devices across all stores
+   
+3. 🖥️ Device Fingerprinting & Tracking System
 
 3. 📝 Login History & Audit Trail System
-✅ Complete audit log of ALL login attempts (successful and failed)
-
-📊 20+ data points captured per login event
-
-🗄️ 2-year data retention with full search capability
-
-📈 Real-time login monitoring dashboard
-
-✔️ 100% audit compliance for all 50 stores
-
-🔬 Forensic analysis capability for security investigations
 
 4. 📍 Real-time Location Tracking & Geo-verification
-🗺️ IP to physical location mapping (95% city-level accuracy)
-
-⚠️ Impossible travel scenario detection
-
-📋 Store-based location whitelisting
-
-🚨 Real-time location anomaly alerts
-
-🔍 Detected 8 impossible travel scenarios
-
-🚫 Blocked login from 15 high-risk countries
 
 5. 🚨 Suspicious Activity Detection & Alert System
-🤖 ML-based anomaly detection on login patterns
-
-👁️ Real-time suspicious behavior flagging
-
-📧 Automated SMS/Email alerts to store managers
-
-⚡ Risk-based authentication escalation
-
-📊 47 real-time alerts generated in 3 months
-
-🛡️ Prevented 3 potential security breaches
-
-⏱️ Average response time: less than 30 seconds
 
 6. 📋 IP Whitelist/Blacklist Management
-🏪 Store-specific IP whitelisting
-
-🚫 Dynamic blacklist for malicious IPs
-
-📅 Scheduled whitelist updates
-
-📤 Bulk import/export for all branches
-
-✅ 500+ IPs whitelisted across 50 stores
-
-❌ 150+ malicious IPs blacklisted globally
 
 7. 🔐 Two-Factor Authentication (2FA) with Multiple Methods
-⏰ TOTP (Google Authenticator) for standard users
-
-💬 SMS OTP as backup method
-
-✉️ Email OTP for low-risk operations
-
-🔑 Hardware Token (YubiKey) for admin access
-
-🎫 Backup codes for emergency access
-
-📈 100% adoption rate among 500+ users
-
-🎯 98.5% first-attempt success rate
-
-🛡️ Zero successful 2FA bypass attempts
 
 8. 👥 Session Management & Activity Monitoring
-👁️ Real-time active session tracking
-
-🗑️ Remote session termination from admin panel
-
-🔢 Concurrent session limits by role
-
-⏰ Idle timeout enforcement with warnings
-
-✅ Enforced 1-session policy for cashiers
-
-🔄 Auto-logout saved 200+ idle session risks
-
-🚨 Remote termination saved 3 compromised sessions
 
 9. 📊 Security Analytics Dashboard
-📈 Real-time security metrics visualization
 
-📉 Login success/failure trends with hourly breakdown
 
-🗺️ Geographic login heatmap
 
-📱 Device type distribution analytics
+## 📫 Contact Me
 
-👥 Live monitoring of 487 daily active users
+| Method | Details |
+|--------|---------|
+| 📧 **Email** | [sayemhasan25784@gmail.com](mailto:sayemhasan25784@gmail.com) |
+| 📱 **Phone** | +880 1981200585 |
+| 💬 **WhatsApp** | [Click to chat](https://wa.me/8801981200585) |
+| 📍 **Address** | Feni Sadar, Bangladesh |
 
-✅ 1,234 successful logins tracked daily
+---
 
-🎯 98.5% 2FA success rate achieved
+
+
+### 🤝 Let's Connect
+
+<p align="center">
+  <a href="mailto:sayemhasan25784@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/8801981200585">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
 
