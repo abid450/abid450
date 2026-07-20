@@ -15,106 +15,44 @@
 
 ## 💫 About Me
 
-I'm a passionate **Python Backend Developer** with expertise in building scalable web applications, RESTful APIs, and enterprise-grade authentication systems. I love solving complex problems and writing clean, maintainable code.
+I am a passionate **Backend Developer** specializing in **Django** and **Python**. With **3+ years of experience**, I build scalable web applications, robust REST APIs, and cutting-edge AI-powered solutions.
 
-### 🎯 Current Focus
-- 🔭 Building production-ready Django REST APIs
-- 🌱 Exploring Microservices architecture
-- 💡 Learning DevOps & Cloud Computing
-- 👯 Open to collaborate on open source projects
+I love crafting high-performance systems, including:
+* 🏪 **POS Management Systems** & **Inventory Management Systems**
+* 🛒 **E-commerce Platforms**
+* 🤖 **AI Content Generators**
+* 💼 **SaaS Projects** that solve real-world problems
+* ⚡ **Asynchronous Task Processing** & **Real-time Applications** using **Celery & Redis**
 
-### 💬 Ask me about
-- Django & Django REST Framework
-- JWT Authentication & Security
-- Celery & Redis for background tasks
-- Database design & optimization
-- API development & documentation
-
----
+______________________________________________________________________________________________
 
 ## 🛠 Tech Stack & Tools
 
 ### 🐍 Backend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&logo=django&logoColor=white" alt="DRF" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Celery-3776AB?style=for-the-badge&logo=celery&logoColor=white" alt="Celery" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/Gunicorn-49924E?style=for-the-badge&logo=gunicorn&logoColor=white" alt="Gunicorn" />
+  <img src="https://img.shields.io/badge/SSLCommerz-00529B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDggNmg4bC00LTR6bTAgMjBsNC00SDhsNCA0em0tMTAtMTBsNC00djhoLTR6bTIwIDBsLTQtNHY4bDQtNHoiLz48L3N2Zz4=&logoColor=white" alt="SSLCommerz" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
-| Technology | Version | Icon | Description |
-|------------|---------|------|-------------|
-| **Python** | 3.11+ | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25"> | Core Programming Language |
-| **Django** | 6.0.3 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="25"> | High-level Web Framework |
-| **Django REST Framework** | 3.17.1 | <img src="https://www.django-rest-framework.org/img/logo.png" width="25"> | API Development |
-
-
-### 🗄️ Database & Cache
-
-| Technology | Version | Icon | Description |
-|------------|---------|------|-------------|
-| **PostgreSQL** | 15+ | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="25"> | Primary Database |
-| **Redis** | 7.2+ | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="25"> | Cache & Message Broker |
-| **SQLite** | 3.40+ | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="25"> | Lightweight Database |
-
-### 📨 Task Queue & Background Jobs
-
-| Technology | Version | Icon | Description |
-|------------|---------|------|-------------|
-| **Celery** | 5.3+ | <img src="https://docs.celeryq.dev/en/latest/_static/celery_512.png" width="25"> | Distributed Task Queue |
-| **Celery Beat** | 5.3+ | <img src="https://docs.celeryq.dev/en/latest/_static/celery_512.png" width="25"> | Periodic Task Scheduler |
-| **Redis** | 7.2+ | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="25"> | Message Broker |
-| **RabbitMQ** | 3.12+ | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" width="25"> | Advanced Message Broker |
-
-### 🔒 Authentication & Security
-
-| Technology | Version | Icon | Description |
-|------------|---------|------|-------------|
-| **JWT** | 5.3+ | <img src="https://jwt.io/img/pic_logo.svg" width="25"> | JSON Web Tokens |
-| **OAuth2** | 2.0 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/auth0/auth0-original.svg" width="25"> | Authorization Framework |
-| **2FA** | TOTP | <img src="https://cdn-icons-png.flaticon.com/512/7692/7692350.png" width="25"> | Two-Factor Authentication |
-| **bcrypt** | 4.1+ | <img src="https://cdn-icons-png.flaticon.com/512/3665/3665432.png" width="25"> | Password Hashing |
-
-### 🐳 DevOps & Tools
-
-| Technology | Version | Icon | Description |
-|------------|---------|------|-------------|
-| **Docker** | 24.0+ | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="25"> | Containerization |
-| **Nginx** | 1.24+ | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="25"> | Reverse Proxy & Web Server |
-| **Gunicorn** | 21.2+ | <img src="https://gunicorn.org/images/logo.jpg" width="25"> | WSGI HTTP Server |
-| **Git** | 2.40+ | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="25"> | Version Control |
-
-### 🎨 Frontend Basics
-
-| Technology | Version | Icon | Description |
-|------------|---------|------|-------------|
-| **HTML5** | 5 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="25"> | Markup Language |
-| **CSS3** | 3 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="25"> | Styling |
-| **JavaScript** | ES6+ | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25"> | Client-side Scripting |
-| **Bootstrap** | 5.3+ | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="25"> | CSS Framework |
-
----
-
-
-
-I am writing to showcase one of my most challenging and rewarding projects - the implementation of a comprehensive Enterprise-grade Two-Factor Authentication (2FA) System for a Point of Sale (POS) Management System serving 50+ retail branches with 500+ cashiers.
-
-📌 How I Handled This Challenging Project
-When this project came to me, the client was facing serious security issues - unauthorized access attempts, potential fraud risks, and zero visibility into who was accessing their system from where. They needed a complete security overhaul that would protect millions of dollars in daily transactions.
-
-🎯 Project Features (A to Z)
-1. 🌐 IP Monitoring & Threat Intelligence System
-   
-3. 🖥️ Device Fingerprinting & Tracking System
-
-3. 📝 Login History & Audit Trail System
-
-4. 📍 Real-time Location Tracking & Geo-verification
-
-5. 🚨 Suspicious Activity Detection & Alert System
-
-6. 📋 IP Whitelist/Blacklist Management
-
-7. 🔐 Two-Factor Authentication (2FA) with Multiple Methods
-
-8. 👥 Session Management & Activity Monitoring
-
-9. 📊 Security Analytics Dashboard
-
+### 🎨 Frontend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
 
 
 ## 📫 Contact Me
