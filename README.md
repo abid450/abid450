@@ -62,7 +62,16 @@ ________________________________________________________________________________
 ### 🤖 [AI Content Generator](https://github.com/abid450/GenWrite-Ai)
 **AI-powered content generation platform** Built a complete AI-powered content generation platform using OpenAI/ChatGPT API where users can generate blogs, articles, emails, and social media posts with one click. Implemented token-based pricing system with subscription management.
 
-- 🐍 Django + DRF  - 🤖 OpenAI GPT-3.5/4  - 🍎 Celery + 🔴 Redis  - 🐘 PostgreSQL  - 🐳 Docker  - 📚 Swagger Docs  
+<p align="left">
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/DRF-A30000?style=flat&logo=django&logoColor=white" alt="DRF" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white" alt="Celery" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black" alt="Swagger" />
+</p>
 
 🔗 **[View Repository](https://github.com/abid450/GenWrite-Ai)**
 
@@ -71,7 +80,18 @@ ________________________________________________________________________________
 ### 🛒 [E-Commerce Platform](https://github.com/abid450/FoodieHub)
 **Full-featured e-commerce solution** Developed a full-featured e-commerce platform with complete order management, payment integration, and inventory tracking with real-time order processing.
 
-- 🐍 Django + DRF  - 💳 SSLCommerz  - 🍎 Celery + 🔴 Redis  - 🐘 PostgreSQL  - 🎨 HTML, CSS, JS  - 🐳 Docker  
+<p align="left">
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/DRF-A30000?style=flat&logo=django&logoColor=white" alt="DRF" />
+  <img src="https://img.shields.io/badge/SSLCommerz-00529B?style=flat&logoColor=white" alt="SSLCommerz" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white" alt="Celery" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+</p>
 
 🔗 **[View Repository](https://github.com/abid450/FoodieHub)**
 
@@ -80,7 +100,16 @@ ________________________________________________________________________________
 ### 🔐 [JWT 2FA Auth System](https://github.com/abid450/2Fa-Authentication-System)
 **Secure authentication system** Built a production-ready enterprise authentication system with JWT, Two-Factor Authentication (2FA), device tracking, session management, and suspicious activity detection.
 
-- 🐍 Django + DRF  - 🔑 JWT + 🔐 2FA  - 📧 OTP via Email  - 🍎 Celery + 🔴 Redis  - 🐘 PostgreSQL  - 🐳 Docker  
+<p align="left">
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/DRF-A30000?style=flat&logo=django&logoColor=white" alt="DRF" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/2FA_Auth-4B0082?style=flat&logoColor=white" alt="2FA" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white" alt="Celery" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+</p>
 
 🔗 **[View Repository](https://github.com/abid450/2Fa-Authentication-System)**
 
@@ -89,7 +118,15 @@ ________________________________________________________________________________
 ### 📋 [Online Registration System](https://github.com/abid450/Online-Registration-System)
 **Complete registration & event management system.** Complete online registration system with user management, JWT authentication, and admin panel for managing registrations efficiently.
 
-- 🐍 Django + DRF  - 🔑 JWT Auth  - 🎨 HTML, CSS, JS  - 🐘 PostgreSQL  
+<p align="left">
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/DRF-A30000?style=flat&logo=django&logoColor=white" alt="DRF" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
 
 🔗 **[View Repository](https://github.com/abid450/Online-Registration-System)**
 
@@ -99,7 +136,14 @@ ________________________________________________________________________________
 ### ⏰ [Task Scheduler System](https://github.com/abid450/Task-Scheduler-System)
 **Advanced task scheduling** A complete automated task scheduling and notification system for businesses. It generates daily/weekly reports, sends order notifications, and handles background tasks using Celery Beat, Redis, and Django.
 
-- 🐍 Django + DRF  - ⏰ Celery Beat + 🍎 Celery  - 🔴 Redis + 🐘 PostgreSQL  - 🌸 Flower Monitoring  - 🐳 Docker  
+<p align="left">
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/DRF-A30000?style=flat&logo=django&logoColor=white" alt="DRF" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white" alt="Celery" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+</p>
 
 🔗 **[View Repository](https://github.com/abid450/Task-Scheduler-System)**
 
@@ -115,8 +159,6 @@ ________________________________________________________________________________
 | 📍 **Address** | Feni Sadar, Bangladesh |
 
 ---
-
-
 
 ### 🤝 Let's Connect
 
