@@ -55,6 +55,56 @@ ________________________________________________________________________________
 </p>
 
 
+---
+
+## 📌 Featured Projects
+
+### 🤖 [AI Content Generator](https://github.com/abid450/GenWrite-Ai)
+**AI-powered content generation platform** Built a complete AI-powered content generation platform using OpenAI/ChatGPT API where users can generate blogs, articles, emails, and social media posts with one click. Implemented token-based pricing system with subscription management.
+
+- 🐍 Django + DRF  - 🤖 OpenAI GPT-3.5/4  - 🍎 Celery + 🔴 Redis  - 🐘 PostgreSQL  - 🐳 Docker  - 📚 Swagger Docs  
+
+🔗 **[View Repository](https://github.com/abid450/GenWrite-Ai)**
+
+---
+
+### 🛒 [E-Commerce Platform](https://github.com/abid450/FoodieHub)
+**Full-featured e-commerce solution** Developed a full-featured e-commerce platform with complete order management, payment integration, and inventory tracking with real-time order processing.
+
+- 🐍 Django + DRF  - 💳 SSLCommerz  - 🍎 Celery + 🔴 Redis  - 🐘 PostgreSQL  - 🎨 HTML, CSS, JS  - 🐳 Docker  
+
+🔗 **[View Repository](https://github.com/abid450/FoodieHub)**
+
+---
+
+### 🔐 [JWT 2FA Auth System](https://github.com/abid450/2Fa-Authentication-System)
+**Secure authentication system** Built a production-ready enterprise authentication system with JWT, Two-Factor Authentication (2FA), device tracking, session management, and suspicious activity detection.
+
+- 🐍 Django + DRF  - 🔑 JWT + 🔐 2FA  - 📧 OTP via Email  - 🍎 Celery + 🔴 Redis  - 🐘 PostgreSQL  - 🐳 Docker  
+
+🔗 **[View Repository](https://github.com/abid450/2Fa-Authentication-System)**
+
+---
+
+### 📋 [Online Registration System](https://github.com/abid450/Online-Registration-System)
+**Complete registration & event management system.** Complete online registration system with user management, JWT authentication, and admin panel for managing registrations efficiently.
+
+- 🐍 Django + DRF  - 🔑 JWT Auth  - 🎨 HTML, CSS, JS  - 🐘 PostgreSQL  
+
+🔗 **[View Repository](https://github.com/abid450/Online-Registration-System)**
+
+
+---
+
+### ⏰ [Task Scheduler System](https://github.com/abid450/Task-Scheduler-System)
+**Advanced task scheduling** A complete automated task scheduling and notification system for businesses. It generates daily/weekly reports, sends order notifications, and handles background tasks using Celery Beat, Redis, and Django.
+
+- 🐍 Django + DRF  - ⏰ Celery Beat + 🍎 Celery  - 🔴 Redis + 🐘 PostgreSQL  - 🌸 Flower Monitoring  - 🐳 Docker  
+
+🔗 **[View Repository](https://github.com/abid450/Task-Scheduler-System)**
+
+---
+
 ## 📫 Contact Me
 
 | Method | Details |
