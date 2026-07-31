@@ -149,6 +149,30 @@ ________________________________________________________________________________
 
 ---
 
+💼 Experience
+---
+
+### **Backend Developer**
+**Self-Employed / Freelance** | *2023 - Present*
+
+
+### 👨‍🏫 **Python Programming Instructor**
+**SoftTech Academy** | 2024 
+
+
+### 🧑‍💻 **Web Development Mentor**
+**SoftTech Academy** | 2024
+
+
+---
+
+## 🎓 Education
+
+### 🏛️ **Diploma in Engineering (Telecommunication Technology)**
+**Feni Computer Institute** | *2022 - 2026*
+
+---
+
 ## 📫 Contact Me
 
 | Method | Details |
